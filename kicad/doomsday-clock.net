@@ -1,0 +1,590 @@
+# EESchema Netlist Version 1.1 created  2/3/2012 4:44:44 AM
+(
+ ( /4E8FD666 Buzzer BZ1 BUZZER
+  ( 1 /BZ_2 )
+  ( 2 /BZ_1 )
+ )
+ ( /4E9C303E LED-3MM-R0 D1 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch1 )
+ )
+ ( /4E9C3058 LED-3MM-R0 D2 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch2 )
+ )
+ ( /4E9C305F LED-3MM-R0 D3 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch3 )
+ )
+ ( /4E9C3069 LED-3MM-R0 D4 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch4 )
+ )
+ ( /4E9C3068 LED-3MM-R0 D5 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch5 )
+ )
+ ( /4E9C3067 LED-3MM-R0 D6 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch6 )
+ )
+ ( /4E9C306F LED-3MM-R0 D7 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch9 )
+ )
+ ( /4E9C316A LED-3MM-R0 D8 LED
+  ( 1 /Ch7-R )
+  ( 2 /Ch8 )
+ )
+ ( /4E9C319B LED-3MM-R0 D9 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch1 )
+ )
+ ( /4E9C319A LED-3MM-R0 D10 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch2 )
+ )
+ ( /4E9C3199 LED-3MM-R0 D11 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch3 )
+ )
+ ( /4E9C3196 LED-3MM-R0 D12 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch4 )
+ )
+ ( /4E9C3197 LED-3MM-R0 D13 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch5 )
+ )
+ ( /4E9C3198 LED-3MM-R0 D14 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch6 )
+ )
+ ( /4E9C3195 LED-3MM-R0 D15 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch7 )
+ )
+ ( /4E9C3194 LED-3MM-R0 D16 LED
+  ( 1 /Ch8-R )
+  ( 2 /Ch9 )
+ )
+ ( /4F2A339D Logo-Samurai-Back-2 G1 LOGO
+ )
+ ( /4F2AB0AC LOGO-OSH G2 LOGO-OSH
+ )
+ ( /4E9C4833 SIL-3 K1 CONN_3
+  ( 1 /D03 )
+  ( 2 /D02 )
+  ( 3 /A02 )
+ )
+ ( /4E9C482D SIL-3 K2 CONN_3
+  ( 1 /EA )
+  ( 2 /EB )
+  ( 3 /E-A02 )
+ )
+ ( /4E9DA562 Grove-90-R0 P1 I2C
+  ( 1 /A05 )
+  ( 2 /A04 )
+  ( 3 /VCC )
+  ( 4 GND )
+ )
+ ( /4E9C2AA7 card-fingers-08 P5 CONN_36
+  ( 1 /VCC )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 /D02 )
+  ( 5 /D03 )
+  ( 6 /D04 )
+  ( 7 /D05 )
+  ( 8 GND )
+  ( 9 /D06 )
+  ( 10 /D07 )
+  ( 11 /D08 )
+  ( 12 /D09 )
+  ( 13 /D10 )
+  ( 14 /D11 )
+  ( 15 /D12 )
+  ( 16 /D13 )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+  ( 21 /A00 )
+  ( 22 /A01 )
+  ( 23 /A02 )
+  ( 24 /A03 )
+  ( 25 /A04 )
+  ( 26 /A05 )
+  ( 27 ? )
+  ( 28 ? )
+  ( 29 GND )
+  ( 30 ? )
+  ( 31 ? )
+  ( 32 ? )
+  ( 33 ? )
+  ( 34 ? )
+  ( 35 ? )
+  ( 36 /VCC )
+ )
+ ( /4EBB861A SIL-10 P9 CONN_10
+  ( 1 /Ch9-R )
+  ( 2 /Ch9 )
+  ( 3 /Ch8-R )
+  ( 4 /Ch8 )
+  ( 5 /Ch7-R )
+  ( 6 /Ch7 )
+  ( 7 /Ch6-R )
+  ( 8 /Ch6 )
+  ( 9 /Ch5-R )
+  ( 10 /Ch5 )
+ )
+ ( /4EBB866B SIL-10 P10 CONN_10
+  ( 1 /Ch4-R )
+  ( 2 /Ch4 )
+  ( 3 /Ch3-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch2-R )
+  ( 6 /Ch2 )
+  ( 7 /Ch1-R )
+  ( 8 /Ch1 )
+  ( 9 ? )
+  ( 10 ? )
+ )
+ ( /4E9E44EF SIL-12 P11 CONN_12
+  ( 1 /D13 )
+  ( 2 /D12 )
+  ( 3 /D11 )
+  ( 4 /D10 )
+  ( 5 /D09 )
+  ( 6 /D08 )
+  ( 7 /D07 )
+  ( 8 /D06 )
+  ( 9 /D05 )
+  ( 10 /D04 )
+  ( 11 /D03 )
+  ( 12 /D02 )
+ )
+ ( /4EA8C331 SIL-9 P12 CONN_9
+  ( 1 /Ch9-R )
+  ( 2 /Ch8-R )
+  ( 3 /Ch7-R )
+  ( 4 /Ch6-R )
+  ( 5 /Ch5-R )
+  ( 6 /Ch4-R )
+  ( 7 /Ch3-R )
+  ( 8 /Ch2-R )
+  ( 9 /Ch1-R )
+ )
+ ( /4E9C437A SIL-2 P13 CONN_2
+  ( 1 /A00 )
+  ( 2 /A01 )
+ )
+ ( /4E9C4381 SIL-2 P14 CONN_2
+  ( 1 /BZ_1 )
+  ( 2 /BZ_2 )
+ )
+ ( /4E9E48D2 SIL-4 P15 CONN_4
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /VCC )
+  ( 4 /VCC )
+ )
+ ( /4EC0B920 C1.ED R1 PHOTORESISTOR
+  ( 1 /VCC )
+  ( 2 /A03 )
+ )
+ ( /4EC1BE03 R3-1W R2 R
+  ( 1 /A03 )
+  ( 2 GND )
+ )
+ ( /4E9C4093 Encoder RE1 Rotary_Encoder_with_Switch
+  ( 1 /EA )
+  ( 2 GND )
+  ( 3 /EB )
+  ( 4 GND )
+  ( 5 /E-A02 )
+ )
+ ( /4E8FD033 7-segment-SZ S1 7SEGMENTS
+  ( 1 /Ch5 )
+  ( 2 /Ch4 )
+  ( 3 /Ch1-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch8 )
+  ( 6 /Ch2 )
+  ( 7 /Ch9 )
+  ( 8 /Ch1-R )
+  ( 9 /Ch6 )
+  ( 10 /Ch7 )
+ )
+ ( /4E8FD434 7-segment-SZ S2 7SEGMENTS
+  ( 1 /Ch5 )
+  ( 2 /Ch4 )
+  ( 3 /Ch2-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch8 )
+  ( 6 /Ch9 )
+  ( 7 /Ch1 )
+  ( 8 /Ch2-R )
+  ( 9 /Ch6 )
+  ( 10 /Ch7 )
+ )
+ ( /4E8FD495 7-segment-SZ S3 7SEGMENTS
+  ( 1 /Ch5 )
+  ( 2 /Ch4 )
+  ( 3 /Ch3-R )
+  ( 4 /Ch9 )
+  ( 5 /Ch8 )
+  ( 6 /Ch2 )
+  ( 7 /Ch1 )
+  ( 8 /Ch3-R )
+  ( 9 /Ch6 )
+  ( 10 /Ch7 )
+ )
+ ( /4E8FD4BC 7-segment-SZ S4 7SEGMENTS
+  ( 1 /Ch5 )
+  ( 2 /Ch9 )
+  ( 3 /Ch4-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch8 )
+  ( 6 /Ch2 )
+  ( 7 /Ch1 )
+  ( 8 /Ch4-R )
+  ( 9 /Ch6 )
+  ( 10 /Ch7 )
+ )
+ ( /4E8FD4E1 7-segment-SZ S5 7SEGMENTS
+  ( 1 /Ch9 )
+  ( 2 /Ch4 )
+  ( 3 /Ch5-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch8 )
+  ( 6 /Ch2 )
+  ( 7 /Ch1 )
+  ( 8 /Ch5-R )
+  ( 9 /Ch6 )
+  ( 10 /Ch7 )
+ )
+ ( /4E8FD4F3 7-segment-SZ S6 7SEGMENTS
+  ( 1 /Ch5 )
+  ( 2 /Ch4 )
+  ( 3 /Ch6-R )
+  ( 4 /Ch3 )
+  ( 5 /Ch8 )
+  ( 6 /Ch2 )
+  ( 7 /Ch1 )
+  ( 8 /Ch6-R )
+  ( 9 /Ch9 )
+  ( 10 /Ch7 )
+ )
+ ( /4E9C4492 SJ_S_CUTTABLE SJ1 SJ_S_CUTTABLE
+  ( 1 /D11 )
+  ( 2 /Ch8-R )
+ )
+ ( /4E9C4491 SJ_S_CUTTABLE SJ2 SJ_S_CUTTABLE
+  ( 1 /D10 )
+  ( 2 /Ch7-R )
+ )
+ ( /4E9C4496 SJ_S_CUTTABLE SJ3 SJ_S_CUTTABLE
+  ( 1 /D09 )
+  ( 2 /Ch6-R )
+ )
+ ( /4E9C4497 SJ_S_CUTTABLE SJ4 SJ_S_CUTTABLE
+  ( 1 /D08 )
+  ( 2 /Ch5-R )
+ )
+ ( /4E9C44BC SJ_S_CUTTABLE SJ5 SJ_S_CUTTABLE
+  ( 1 /D07 )
+  ( 2 /Ch4-R )
+ )
+ ( /4E9C44BD SJ_S_CUTTABLE SJ6 SJ_S_CUTTABLE
+  ( 1 /D06 )
+  ( 2 /Ch3-R )
+ )
+ ( /4E9C44BB SJ_S_CUTTABLE SJ7 SJ_S_CUTTABLE
+  ( 1 /D05 )
+  ( 2 /Ch2-R )
+ )
+ ( /4E9C44BA SJ_S_CUTTABLE SJ8 SJ_S_CUTTABLE
+  ( 1 /D04 )
+  ( 2 /Ch1-R )
+ )
+ ( /4EA8C36F SJ_S_CUTTABLE SJ9 SJ_S_CUTTABLE
+  ( 1 /D12 )
+  ( 2 /Ch9-R )
+ )
+ ( /4E9C43A6 SJ_S_CUTTABLE SJ10 SJ_S_CUTTABLE
+  ( 1 /A01 )
+  ( 2 /BZ_2 )
+ )
+ ( /4EC26ED9 SJ_S_THREE_WAY SJ11 SJ_S_THREE_WAY
+  ( 1 GND )
+  ( 2 /BZ_1 )
+  ( 3 /A00 )
+ )
+ ( /4E9C408B SJ_S_CUTTABLE SJ12 SJ_S_CUTTABLE
+  ( 1 /D03 )
+  ( 2 /EA )
+ )
+ ( /4E9C408D SJ_S_CUTTABLE SJ13 SJ_S_CUTTABLE
+  ( 1 /D02 )
+  ( 2 /EB )
+ )
+ ( /4E9C408C SJ_S_CUTTABLE SJ14 SJ_S_CUTTABLE
+  ( 1 /A02 )
+  ( 2 /E-A02 )
+ )
+ ( /4EC1D72C TO92r U1 TEP36
+  ( 1 /VCC )
+  ( 2 /A00 )
+  ( 3 GND )
+ )
+ ( /4C73732E ARDUINO-SIELD-01 X1 ARDUINOSHIELD
+  ( 0 ? )
+  ( 1 ? )
+  ( 2 /D02 )
+  ( 3 /D03 )
+  ( 3V3 ? )
+  ( 4 /D04 )
+  ( 5 /D05 )
+  ( 5V /VCC )
+  ( 6 /D06 )
+  ( 7 /D07 )
+  ( 8 /D08 )
+  ( 9 /D09 )
+  ( 10 /D10 )
+  ( 11 /D11 )
+  ( 12 /D12 )
+  ( 13 /D13 )
+  ( AD0 /A00 )
+  ( AD1 /A01 )
+  ( AD2 /A02 )
+  ( AD3 /A03 )
+  ( AD4 /A04 )
+  ( AD5 /A05 )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 GND )
+  ( GND3 GND )
+  ( RST ? )
+  ( V_IN ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D12
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D13
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D14
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D15
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D16
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component G1
+ Logo-Samurai-Back
+ logo-Samurai
+$endlist
+$component G2
+ LOGO-OSH
+$endlist
+$component P1
+ Seee-Grove-4-pin
+$endlist
+$component P13
+ Seeed-Grove-4-pin
+$endlist
+$component P14
+ Seeed-Grove-4-pin
+$endlist
+$component P15
+ Seee-Grove-4-pin
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R3-LARGE_PADS
+$endlist
+$component SJ1
+ SJ
+$endlist
+$component SJ2
+ SJ
+$endlist
+$component SJ3
+ SJ
+$endlist
+$component SJ4
+ SJ
+$endlist
+$component SJ5
+ SJ
+$endlist
+$component SJ6
+ SJ
+$endlist
+$component SJ7
+ SJ
+$endlist
+$component SJ8
+ SJ
+$endlist
+$component SJ9
+ SJ
+$endlist
+$component SJ10
+ SJ
+$endlist
+$component SJ11
+ SJ
+ SJ_S_THREE_WAY
+$endlist
+$component SJ12
+ SJ
+$endlist
+$component SJ13
+ SJ
+$endlist
+$component SJ14
+ SJ
+$endlist
+$component X1
+ ARDUINO-SHIELD
+$endlist
+$endfootprintlist
+}
